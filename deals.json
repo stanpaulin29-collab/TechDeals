@@ -1,62 +1,102 @@
 [
-{
-"category": "smartphone",
-"title": "iPhone 15 Pro",
-"oldPrice": 1229,
-"newPrice": 1099,
-"discount": 11,
-"imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-"description": "Le dernier iPhone avec châssis en titane et puce A17 Pro.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
-"title": "MacBook Air M2",
-"oldPrice": 1199,
-"newPrice": 999,
-"discount": 17,
-"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-"description": "Ultra-fin, performant avec la puce M2 et écran Liquid Retina.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "Samsung Galaxy Tab S9",
-"oldPrice": 899,
-"newPrice": 749,
-"discount": 17,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Tablette Android haut de gamme avec écran OLED 120Hz.",
-"link": "https://amazon.fr"
-},
-{
-"category": "audio",
-"title": "Sony WH-1000XM5",
-"oldPrice": 399,
-"newPrice": 329,
-"discount": 18,
-"imageUrl": "https://images.unsplash.com/photo-1618366712277-7bc4b840939c?w=500",
-"description": "Casque à réduction de bruit de référence offrant un son exceptionnel.",
-"link": "https://amazon.fr"
-},
-{
-"category": "smartphone",
-"title": "Google Pixel 8",
-"oldPrice": 799,
-"newPrice": 649,
-"discount": 19,
-"imageUrl": "https://images.unsplash.com/photo-1696429103091-6872995fc1d6?w=500",
-"description": "Smartphone Android fluide avec le meilleur de la photo IA.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
-"title": "Dell XPS 13",
-"oldPrice": 1499,
-"newPrice": 1249,
-"discount": 17,
-"imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
-"description": "Le PC portable Windows compact alliant design et puissance.",
-"link": "https://amazon.fr"
-}
+  {
+    "category": "smartphone",
+    "title": "iPhone 15",
+    "oldPrice": 969,
+    "newPrice": 849,
+    "discount": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+    "description": "Dernier smartphone Apple avec puce A16 Bionic et port USB-C.",
+    "link": "https://www.amazon.fr/s?k=iPhone+15"
+  },
+  {
+    "category": "smartphone",
+    "title": "Samsung Galaxy S24",
+    "oldPrice": 899,
+    "newPrice": 799,
+    "discount": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+    "description": "Puissance Galaxy AI et écran Dynamic AMOLED 2X fluide.",
+    "link": "https://www.amazon.fr/s?k=Samsung+Galaxy+S24"
+  },
+  {
+    "category": "laptop",
+    "title": "MacBook Air M2",
+    "oldPrice": 1199,
+    "newPrice": 999,
+    "discount": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    "description": "Ultra-fin avec puce M2, idéal pour le travail nomade.",
+    "link": "https://www.amazon.fr/s?k=MacBook+Air+M2"
+  },
+  {
+    "category": "laptop",
+    "title": "Dell XPS 13",
+    "oldPrice": 1399,
+    "newPrice": 1199,
+    "discount": 14,
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    "description": "Écran InfinityEdge haute résolution et performances premium.",
+    "link": "https://www.amazon.fr/s?k=Dell+XPS+13"
+  },
+  {
+    "category": "tablette",
+    "title": "iPad Air",
+    "oldPrice": 719,
+    "newPrice": 649,
+    "discount": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "Performances exceptionnelles avec la puce M1 et design élégant.",
+    "link": "https://www.amazon.fr/s?k=iPad+Air"
+  },
+  {
+    "category": "tablette",
+    "title": "Samsung Galaxy Tab S9",
+    "oldPrice": 899,
+    "newPrice": 749,
+    "discount": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "Tablette Android haut de gamme avec S Pen inclus et écran AMOLED.",
+    "link": "https://www.amazon.fr/s?k=Samsung+Galaxy+Tab+S9"
+  },
+  {
+    "category": "audio",
+    "title": "Sony WH-1000XM5",
+    "oldPrice": 399,
+    "newPrice": 329,
+    "discount": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "description": "La meilleure réduction de bruit du marché avec son haute qualité.",
+    "link": "https://www.amazon.fr/s?k=Sony+WH-1000XM5"
+  },
+  {
+    "category": "audio",
+    "title": "Bose QuietComfort",
+    "oldPrice": 349,
+    "newPrice": 279,
+    "discount": 20,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "description": "Confort légendaire et isolation phonique incomparable.",
+    "link": "https://www.amazon.fr/s?k=Bose+QuietComfort"
+  },
+  {
+    "category": "audio",
+    "title": "AirPods Pro 2",
+    "oldPrice": 279,
+    "newPrice": 239,
+    "discount": 14,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "description": "Audio spatial et suppression active du bruit améliorée.",
+    "link": "https://www.amazon.fr/s?k=AirPods+Pro+2"
+  },
+  {
+    "category": "smartphone",
+    "title": "Google Pixel 8",
+    "oldPrice": 799,
+    "newPrice": 649,
+    "discount": 19,
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500",
+    "description": "Photographies incroyables grâce à l'IA de Google.",
+    "link": "https://www.amazon.fr/s?k=Google+Pixel+8"
+  }
 ]
