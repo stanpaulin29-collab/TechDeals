@@ -1,62 +1,62 @@
 [
-  {
-    "category": "smartphone",
-    "title": "Samsung Galaxy S23",
-    "oldPrice": 959,
-    "newPrice": 749,
-    "discount": 22,
-    "imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
-    "description": "Le flagship compact de Samsung avec un processeur ultra puissant.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "PC portable",
-    "title": "Apple MacBook Air M2",
-    "oldPrice": 1299,
-    "newPrice": 1099,
-    "discount": 15,
-    "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-    "description": "Léger, fin et performant avec la puce Apple M2.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablette",
-    "title": "iPad Air M1",
-    "oldPrice": 769,
-    "newPrice": 649,
-    "discount": 16,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "Polyvalence et puissance pour tous vos projets créatifs.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Sony WH-1000XM5",
-    "oldPrice": 419,
-    "newPrice": 329,
-    "discount": 21,
-    "imageUrl": "https://images.unsplash.com/photo-1675662210447-604d37bdf97b?w=500",
-    "description": "La meilleure réduction de bruit active du marché.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "smartphone",
-    "title": "Google Pixel 7 Pro",
-    "oldPrice": 899,
-    "newPrice": 699,
-    "discount": 22,
-    "imageUrl": "https://images.unsplash.com/photo-1664478546384-d27e26597793?w=500",
-    "description": "Le meilleur de la photographie computationnelle par Google.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Apple AirPods Pro 2",
-    "oldPrice": 279,
-    "newPrice": 239,
-    "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1588423770574-910ae27c85a5?w=500",
-    "description": "Une immersion sonore totale avec l'audio spatial personnalisé.",
-    "link": "https://amazon.fr"
-  }
+{
+"category": "smartphone",
+"title": "Samsung Galaxy S23",
+"oldPrice": 959,
+"newPrice": 749,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+"description": "Le fleuron de Samsung avec un écran exceptionnel et un triple capteur photo.",
+"link": "https://amazon.fr"
+},
+{
+"category": "pc portable",
+"title": "MacBook Air M2",
+"oldPrice": 1299,
+"newPrice": 1099,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
+"description": "Ultra-fin, léger et puissant avec la puce Apple M2.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Sony WH-1000XM5",
+"oldPrice": 399,
+"newPrice": 329,
+"discount": 18,
+"imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=500",
+"description": "La référence du casque à réduction de bruit active de Sony.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air 5",
+"oldPrice": 789,
+"newPrice": 669,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Polyvalence et puissance pour le travail et le divertissement créatif.",
+"link": "https://amazon.fr"
+},
+{
+"category": "smartphone",
+"title": "Google Pixel 8",
+"oldPrice": 799,
+"newPrice": 649,
+"discount": 19,
+"imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+"description": "L'expérience Android pure avec le meilleur de la photographie IA.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "AirPods Pro 2",
+"oldPrice": 279,
+"newPrice": 239,
+"discount": 14,
+"imageUrl": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=500",
+"description": "Écouteurs sans fil avec réduction de bruit et audio spatial immersif.",
+"link": "https://amazon.fr"
+}
 ]
