@@ -1,62 +1,62 @@
 [
-{
-"category": "smartphone",
-"title": "iPhone 15 128Go",
-"oldPrice": 969,
-"newPrice": 849,
-"discount": 12,
-"imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-"description": "Le dernier iPhone avec Dynamic Island et puce A16 Bionic.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
-"title": "MacBook Air M2",
-"oldPrice": 1299,
-"newPrice": 1099,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-"description": "L'ordinateur portable ultra-fin avec puce Apple M2 puissante.",
-"link": "https://amazon.fr"
-},
-{
-"category": "audio",
-"title": "Sony WH-1000XM5",
-"oldPrice": 399,
-"newPrice": 329,
-"discount": 17,
-"imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
-"description": "Casque Bluetooth à réduction de bruit de pointe.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "Samsung Galaxy Tab S9 FE",
-"oldPrice": 449,
-"newPrice": 369,
-"discount": 18,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Écran immersif et stylet S Pen inclus pour la productivité.",
-"link": "https://amazon.fr"
-},
-{
-"category": "smartphone",
-"title": "Google Pixel 8",
-"oldPrice": 799,
-"newPrice": 649,
-"discount": 19,
-"imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "Le smartphone Google avec IA avancée et photo exceptionnelle.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
-"title": "ASUS Vivobook 15",
-"oldPrice": 699,
-"newPrice": 549,
-"discount": 21,
-"imageUrl": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500",
-"description": "PC portable polyvalent avec processeur Intel Core i5.",
-"link": "https://amazon.fr"
-}
+  {
+    "category": "smartphone",
+    "title": "Samsung Galaxy S24 Ultra",
+    "oldPrice": 1469,
+    "newPrice": 1199,
+    "discount": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+    "description": "Écran Dynamic AMOLED 2X, processeur Snapdragon 8 Gen 3 et Galaxy AI intégré.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "audio",
+    "title": "Sony WH-1000XM5",
+    "oldPrice": 399,
+    "newPrice": 319,
+    "discount": 20,
+    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
+    "description": "Casque Bluetooth à réduction de bruit sans fil avec une autonomie de 30 heures.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "pc portable",
+    "title": "MacBook Air M3",
+    "oldPrice": 1299,
+    "newPrice": 1149,
+    "discount": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1517336714460-4c5049c11c4c?w=500",
+    "description": "Nouvelle puce M3 d'Apple, écran Liquid Retina 13 pouces et design ultra-fin.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "tablette",
+    "title": "iPad Air M2",
+    "oldPrice": 719,
+    "newPrice": 659,
+    "discount": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "iPad Air boosté par la puce M2, idéal pour le dessin et la productivité nomade.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "smartphone",
+    "title": "iPhone 15 Pro",
+    "oldPrice": 1229,
+    "newPrice": 1089,
+    "discount": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+    "description": "Boîtier en titane, puce A17 Pro et système photo pro avancé.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "audio",
+    "title": "AirPods Pro 2",
+    "oldPrice": 279,
+    "newPrice": 239,
+    "discount": 14,
+    "imageUrl": "https://images.unsplash.com/photo-1588423770110-2f10f282405a?w=500",
+    "description": "Audio spatial personnalisé et réduction active du bruit deux fois plus performante.",
+    "link": "https://amazon.fr"
+  }
 ]
