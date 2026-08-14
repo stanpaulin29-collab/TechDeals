@@ -1,62 +1,62 @@
 [
-  {
-    "category": "smartphone",
-    "title": "Samsung Galaxy S24 Ultra",
-    "oldPrice": 1469,
-    "newPrice": 1199,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-    "description": "Écran Dynamic AMOLED 2X, processeur Snapdragon 8 Gen 3 et Galaxy AI intégré.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Sony WH-1000XM5",
-    "oldPrice": 399,
-    "newPrice": 319,
-    "discount": 20,
-    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
-    "description": "Casque Bluetooth à réduction de bruit sans fil avec une autonomie de 30 heures.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "pc portable",
-    "title": "MacBook Air M3",
-    "oldPrice": 1299,
-    "newPrice": 1149,
-    "discount": 11,
-    "imageUrl": "https://images.unsplash.com/photo-1517336714460-4c5049c11c4c?w=500",
-    "description": "Nouvelle puce M3 d'Apple, écran Liquid Retina 13 pouces et design ultra-fin.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablette",
-    "title": "iPad Air M2",
-    "oldPrice": 719,
-    "newPrice": 659,
-    "discount": 8,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "iPad Air boosté par la puce M2, idéal pour le dessin et la productivité nomade.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "smartphone",
-    "title": "iPhone 15 Pro",
-    "oldPrice": 1229,
-    "newPrice": 1089,
-    "discount": 11,
-    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-    "description": "Boîtier en titane, puce A17 Pro et système photo pro avancé.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "AirPods Pro 2",
-    "oldPrice": 279,
-    "newPrice": 239,
-    "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1588423770110-2f10f282405a?w=500",
-    "description": "Audio spatial personnalisé et réduction active du bruit deux fois plus performante.",
-    "link": "https://amazon.fr"
-  }
+{
+"category": "smartphone",
+"title": "Samsung Galaxy S23",
+"oldPrice": 959,
+"newPrice": 749,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+"description": "Écran Dynamic AMOLED 2X, 128 Go.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M1",
+"oldPrice": 789,
+"newPrice": 669,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Puce M1, Écran Liquid Retina 10,9 pouces.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "MacBook Air M2",
+"oldPrice": 1299,
+"newPrice": 1099,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+"description": "8 Go RAM, 256 Go SSD, Gris sidéral.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Sony WH-1000XM5",
+"oldPrice": 399,
+"newPrice": 329,
+"discount": 18,
+"imageUrl": "https://images.unsplash.com/photo-1613040819385-a7b370e1c0da?w=500",
+"description": "Réduction de bruit active, 30h d'autonomie.",
+"link": "https://amazon.fr"
+},
+{
+"category": "smartphone",
+"title": "Google Pixel 8",
+"oldPrice": 799,
+"newPrice": 649,
+"discount": 19,
+"imageUrl": "https://images.unsplash.com/photo-1696426543125-976d900600a9?w=500",
+"description": "Puce Google Tensor G3, excellent en photo.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "Asus Vivobook 16",
+"oldPrice": 899,
+"newPrice": 699,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+"description": "Ryzen 7, 16 Go RAM, 512 Go SSD.",
+"link": "https://amazon.fr"
+}
 ]
