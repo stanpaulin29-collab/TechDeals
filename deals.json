@@ -6,27 +6,17 @@
 "newPrice": 749,
 "discount": 22,
 "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Écran Dynamic AMOLED 2X et processeur Snapdragon 8 Gen 2.",
+"description": "Smartphone haut de gamme avec écran AMOLED 120Hz et processeur ultra puissant.",
 "link": "https://amazon.fr"
 },
 {
-"category": "tablet",
-"title": "iPad Air M1",
-"oldPrice": 769,
-"newPrice": 649,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Puce M1 ultra-performante et écran Liquid Retina de 10,9 pouces.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
+"category": "ordinateur portable",
 "title": "MacBook Air M2",
 "oldPrice": 1299,
 "newPrice": 1099,
 "discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1517336714460-4c98882c3fae?w=500",
-"description": "Design fin et léger avec une autonomie allant jusqu'à 18 heures.",
+"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+"description": "Ordinateur portable fin et léger avec la puce Apple M2 pour des performances incroyables.",
 "link": "https://amazon.fr"
 },
 {
@@ -34,29 +24,39 @@
 "title": "Sony WH-1000XM5",
 "oldPrice": 399,
 "newPrice": 329,
-"discount": 17,
+"discount": 18,
 "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-"description": "Réduction de bruit active de pointe et qualité d'appel exceptionnelle.",
+"description": "Le meilleur casque à réduction de bruit du marché avec une fidélité audio inégalée.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M1",
+"oldPrice": 789,
+"newPrice": 669,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Tablette polyvalente parfaite pour le graphisme et le divertissement mobile.",
 "link": "https://amazon.fr"
 },
 {
 "category": "smartphone",
-"title": "Google Pixel 8",
-"oldPrice": 799,
-"newPrice": 649,
-"discount": 18,
+"title": "Google Pixel 7",
+"oldPrice": 649,
+"newPrice": 549,
+"discount": 15,
 "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "L'expertise photo de Google avec l'intelligence artificielle intégrée.",
+"description": "Expert en photographie mobile avec l'expérience Android la plus pure.",
 "link": "https://amazon.fr"
 },
 {
-"category": "pc portable",
-"title": "Dell XPS 13",
-"oldPrice": 1499,
-"newPrice": 1249,
-"discount": 16,
-"imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
-"description": "Écran InfinityEdge et finitions premium en aluminium.",
+"category": "audio",
+"title": "Bose QuietComfort Earbuds II",
+"oldPrice": 299,
+"newPrice": 229,
+"discount": 23,
+"imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+"description": "Écouteurs intra-auriculaires offrant une réduction de bruit active légendaire.",
 "link": "https://amazon.fr"
 }
 ]
