@@ -1,62 +1,62 @@
 [
-  {
-    "category": "smartphone",
-    "title": "Samsung Galaxy S23",
-    "oldPrice": 959,
-    "newPrice": 699,
-    "discount": 27,
-    "imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
-    "description": "Écran Dynamic AMOLED 2X 120Hz et triple capteur photo haute résolution.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablette",
-    "title": "Apple iPad Air M2",
-    "oldPrice": 719,
-    "newPrice": 649,
-    "discount": 10,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "Puce M2 ultra-puissante et écran Liquid Retina de 11 pouces.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "PC portable",
-    "title": "MacBook Air M3",
-    "oldPrice": 1299,
-    "newPrice": 1099,
-    "discount": 15,
-    "imageUrl": "https://images.unsplash.com/photo-1517336714460-4c50422530a4?w=500",
-    "description": "Le portable le plus fin et léger d'Apple avec la nouvelle puce M3.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Sony WH-1000XM5",
-    "oldPrice": 399,
-    "newPrice": 299,
-    "discount": 25,
-    "imageUrl": "https://images.unsplash.com/photo-1618366712277-721616c27e62?w=500",
-    "description": "Casque avec la meilleure réduction de bruit du marché et audio spatial.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "smartphone",
-    "title": "Google Pixel 8",
-    "oldPrice": 799,
-    "newPrice": 599,
-    "discount": 25,
-    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-    "description": "Un smartphone conçu par Google avec un appareil photo dopé à l'IA.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "AirPods Pro 2",
-    "oldPrice": 279,
-    "newPrice": 235,
-    "discount": 16,
-    "imageUrl": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=500",
-    "description": "Expérience audio immersive et réduction active du bruit améliorée.",
-    "link": "https://amazon.fr"
-  }
+{
+"category": "smartphone",
+"title": "Apple iPhone 15 (128 Go)",
+"oldPrice": 969,
+"newPrice": 849,
+"discount": 12,
+"imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+"description": "Écran Super Retina XDR 6,1 pouces et puce A16 Bionic performante.",
+"link": "https://amazon.fr"
+},
+{
+"category": "smartphone",
+"title": "Samsung Galaxy S24 Ultra",
+"oldPrice": 1469,
+"newPrice": 1199,
+"discount": 18,
+"imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+"description": "Le fleuron de Samsung avec Galaxy AI et capteur photo 200 Mpx.",
+"link": "https://amazon.fr"
+},
+{
+"category": "laptop",
+"title": "MacBook Air 13 M2",
+"oldPrice": 1199,
+"newPrice": 999,
+"discount": 17,
+"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+"description": "Ultraportable silencieux et puissant avec une autonomie record.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Sony WH-1000XM5",
+"oldPrice": 399,
+"newPrice": 299,
+"discount": 25,
+"imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+"description": "La meilleure réduction de bruit active du marché pour votre musique.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablet",
+"title": "iPad Air (2024) M2",
+"oldPrice": 719,
+"newPrice": 659,
+"discount": 8,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Tablette polyvalente idéale pour le dessin et la productivité.",
+"link": "https://amazon.fr"
+},
+{
+"category": "laptop",
+"title": "Asus Zenbook 14 OLED",
+"oldPrice": 1299,
+"newPrice": 1049,
+"discount": 19,
+"imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+"description": "PC portable premium avec un écran OLED aux couleurs éclatantes.",
+"link": "https://amazon.fr"
+}
 ]
