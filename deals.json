@@ -1,22 +1,32 @@
 [
 {
 "category": "smartphone",
-"title": "iPhone 15",
-"oldPrice": 969,
-"newPrice": 849,
-"discount": 12,
-"imageUrl": "https://images.unsplash.com/photo-1695048133142-1a20484d256e?w=500",
-"description": "Écran Super Retina XDR 6.1 pouces avec Dynamic Island et puce A16 Bionic.",
+"title": "Samsung Galaxy S23",
+"oldPrice": 959,
+"newPrice": 749,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+"description": "Écran Dynamic AMOLED 2X, processeur puissant et photos nettes.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M1",
+"oldPrice": 789,
+"newPrice": 659,
+"discount": 16,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Puce M1 ultra-performante et écran Liquid Retina de 10,9 pouces.",
 "link": "https://amazon.fr"
 },
 {
 "category": "pc portable",
 "title": "MacBook Air M2",
-"oldPrice": 1199,
-"newPrice": 999,
-"discount": 16,
-"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-"description": "Puce M2 ultra-puissante, design fin et léger, écran Liquid Retina 13.6 pouces.",
+"oldPrice": 1299,
+"newPrice": 1099,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+"description": "Design ultra-fin, puce M2 rapide et autonomie exceptionnelle.",
 "link": "https://amazon.fr"
 },
 {
@@ -24,39 +34,29 @@
 "title": "Sony WH-1000XM5",
 "oldPrice": 399,
 "newPrice": 329,
-"discount": 17,
-"imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=500",
-"description": "Réduction de bruit active leader du marché et qualité sonore haute résolution.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "Samsung Galaxy Tab S9 FE",
-"oldPrice": 429,
-"newPrice": 349,
 "discount": 18,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Écran 10.9 pouces fluide, S Pen inclus et résistance à l'eau IP68.",
+"imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+"description": "Réduction de bruit active de pointe et qualité sonore HD.",
 "link": "https://amazon.fr"
 },
 {
 "category": "smartphone",
-"title": "Samsung Galaxy S24",
+"title": "Google Pixel 7 Pro",
 "oldPrice": 899,
-"newPrice": 749,
-"discount": 16,
-"imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Capteur photo 50 Mpx, IA intégrée Galaxy AI et écran Dynamic AMOLED 2X.",
+"newPrice": 699,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
+"description": "L'expérience Android la plus fluide avec un triple capteur photo.",
 "link": "https://amazon.fr"
 },
 {
-"category": "pc portable",
-"title": "HP Victus 15",
-"oldPrice": 849,
-"newPrice": 699,
-"discount": 17,
-"imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
-"description": "PC Gamer avec RTX 3050, processeur Ryzen 5 et écran 144Hz.",
+"category": "audio",
+"title": "Bose QuietComfort II",
+"oldPrice": 299,
+"newPrice": 229,
+"discount": 23,
+"imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+"description": "Le meilleur silence au monde et un son calibré sur mesure.",
 "link": "https://amazon.fr"
 }
 ]
