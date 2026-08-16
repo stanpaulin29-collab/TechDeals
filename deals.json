@@ -1,62 +1,62 @@
 [
-{
-"category": "smartphone",
-"title": "Samsung Galaxy S23",
-"oldPrice": 959,
-"newPrice": 749,
-"discount": 22,
-"imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Écran Dynamic AMOLED 2X, processeur puissant et photos nettes.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "iPad Air M1",
-"oldPrice": 789,
-"newPrice": 659,
-"discount": 16,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Puce M1 ultra-performante et écran Liquid Retina de 10,9 pouces.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
-"title": "MacBook Air M2",
-"oldPrice": 1299,
-"newPrice": 1099,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
-"description": "Design ultra-fin, puce M2 rapide et autonomie exceptionnelle.",
-"link": "https://amazon.fr"
-},
-{
-"category": "audio",
-"title": "Sony WH-1000XM5",
-"oldPrice": 399,
-"newPrice": 329,
-"discount": 18,
-"imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-"description": "Réduction de bruit active de pointe et qualité sonore HD.",
-"link": "https://amazon.fr"
-},
-{
-"category": "smartphone",
-"title": "Google Pixel 7 Pro",
-"oldPrice": 899,
-"newPrice": 699,
-"discount": 22,
-"imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "L'expérience Android la plus fluide avec un triple capteur photo.",
-"link": "https://amazon.fr"
-},
-{
-"category": "audio",
-"title": "Bose QuietComfort II",
-"oldPrice": 299,
-"newPrice": 229,
-"discount": 23,
-"imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
-"description": "Le meilleur silence au monde et un son calibré sur mesure.",
-"link": "https://amazon.fr"
-}
+  {
+    "category": "smartphone",
+    "title": "Samsung Galaxy S23",
+    "oldPrice": 959,
+    "newPrice": 749,
+    "discount": 22,
+    "imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+    "description": "Écran Dynamic AMOLED 2X, processeur puissant et photos nocturnes exceptionnelles.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "tablette",
+    "title": "Apple iPad Air (M1)",
+    "oldPrice": 789,
+    "newPrice": 649,
+    "discount": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "L'iPad Air avec puce M1 offre des performances révolutionnaires dans un design fin.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "pc portable",
+    "title": "HP Pavilion 15-eg3000nf",
+    "oldPrice": 899,
+    "newPrice": 699,
+    "discount": 22,
+    "imageUrl": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=500",
+    "description": "Un PC portable polyvalent pour le travail et le divertissement avec processeur Intel.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "audio",
+    "title": "Bose QuietComfort Headphones",
+    "oldPrice": 349,
+    "newPrice": 269,
+    "discount": 23,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "description": "Réduction de bruit légendaire, confort exceptionnel et son haute fidélité.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "smartphone",
+    "title": "Google Pixel 8",
+    "oldPrice": 799,
+    "newPrice": 649,
+    "discount": 19,
+    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+    "description": "Le smartphone Android par excellence avec un appareil photo boosté par l'IA.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "pc portable",
+    "title": "Lenovo Yoga Slim 7",
+    "oldPrice": 1199,
+    "newPrice": 999,
+    "discount": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+    "description": "Un ultrabook premium alliant élégance, performance et autonomie longue durée.",
+    "link": "https://amazon.fr"
+  }
 ]
