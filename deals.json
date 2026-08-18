@@ -1,32 +1,32 @@
 [
 {
 "category": "smartphone",
-"title": "Samsung Galaxy S23",
-"oldPrice": 899,
-"newPrice": 699,
-"discount": 22,
+"title": "Samsung Galaxy S24 Ultra",
+"oldPrice": 1469,
+"newPrice": 1199,
+"discount": 18,
 "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Écran Dynamic AMOLED 2X, processeur puissant et photos exceptionnelles.",
+"description": "Écran Dynamic AMOLED de 6,8 pouces avec stylet S Pen intégré.",
 "link": "https://amazon.fr"
 },
 {
 "category": "tablette",
-"title": "iPad Air M1",
-"oldPrice": 789,
+"title": "iPad Air M2",
+"oldPrice": 719,
 "newPrice": 649,
-"discount": 18,
+"discount": 10,
 "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Puce M1 ultra-performante et écran Liquid Retina de 10,9 pouces.",
+"description": "Puissante puce M2 dans un design fin et léger.",
 "link": "https://amazon.fr"
 },
 {
 "category": "PC portable",
-"title": "MacBook Air M2",
+"title": "MacBook Air 13 M3",
 "oldPrice": 1299,
-"newPrice": 1099,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
-"description": "Design fin, puce Apple M2 et autonomie allant jusqu'à 18 heures.",
+"newPrice": 1149,
+"discount": 12,
+"imageUrl": "https://images.unsplash.com/photo-1517336714460-4c504809740d?w=500",
+"description": "Performance exceptionnelle et autonomie jusqu'à 18 heures.",
 "link": "https://amazon.fr"
 },
 {
@@ -36,27 +36,27 @@
 "newPrice": 329,
 "discount": 18,
 "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-"description": "La meilleure réduction de bruit du marché avec un son haute résolution.",
+"description": "Réduction de bruit active leader du marché et son haute fidélité.",
 "link": "https://amazon.fr"
 },
 {
 "category": "smartphone",
-"title": "Google Pixel 8",
-"oldPrice": 799,
-"newPrice": 599,
-"discount": 25,
+"title": "Google Pixel 8 Pro",
+"oldPrice": 1099,
+"newPrice": 849,
+"discount": 23,
 "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "Le meilleur de l'IA Google pour une expérience photo inégalée.",
+"description": "Le meilleur de l'IA Google pour la photo et la productivité.",
 "link": "https://amazon.fr"
 },
 {
 "category": "audio",
-"title": "Bose QuietComfort II",
-"oldPrice": 299,
-"newPrice": 229,
-"discount": 23,
-"imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
-"description": "Écouteurs sans fil avec la meilleure réduction de bruit au monde.",
+"title": "AirPods Pro 2",
+"oldPrice": 279,
+"newPrice": 239,
+"discount": 14,
+"imageUrl": "https://images.unsplash.com/photo-1588423770503-d18999f445ee?w=500",
+"description": "Audio spatialisé et réduction de bruit deux fois plus performante.",
 "link": "https://amazon.fr"
 }
 ]
