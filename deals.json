@@ -1,12 +1,12 @@
 [
 {
 "category": "smartphone",
-"title": "Samsung Galaxy S24 Ultra",
-"oldPrice": 1469,
-"newPrice": 1199,
-"discount": 18,
+"title": "Samsung Galaxy S23",
+"oldPrice": 959,
+"newPrice": 749,
+"discount": 22,
 "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Écran Dynamic AMOLED de 6,8 pouces avec stylet S Pen intégré.",
+"description": "Écran Dynamic AMOLED 2X, processeur puissant.",
 "link": "https://amazon.fr"
 },
 {
@@ -16,17 +16,17 @@
 "newPrice": 649,
 "discount": 10,
 "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Puissante puce M2 dans un design fin et léger.",
+"description": "Puce M2 ultra rapide et écran Liquid Retina.",
 "link": "https://amazon.fr"
 },
 {
 "category": "PC portable",
-"title": "MacBook Air 13 M3",
+"title": "MacBook Air M3",
 "oldPrice": 1299,
-"newPrice": 1149,
-"discount": 12,
-"imageUrl": "https://images.unsplash.com/photo-1517336714460-4c504809740d?w=500",
-"description": "Performance exceptionnelle et autonomie jusqu'à 18 heures.",
+"newPrice": 1099,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+"description": "Léger, puissant et autonomie exceptionnelle.",
 "link": "https://amazon.fr"
 },
 {
@@ -36,7 +36,7 @@
 "newPrice": 329,
 "discount": 18,
 "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-"description": "Réduction de bruit active leader du marché et son haute fidélité.",
+"description": "Réduction de bruit active leader du marché.",
 "link": "https://amazon.fr"
 },
 {
@@ -45,18 +45,18 @@
 "oldPrice": 1099,
 "newPrice": 849,
 "discount": 23,
-"imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "Le meilleur de l'IA Google pour la photo et la productivité.",
+"imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89a81a1bb4?w=500",
+"description": "Le meilleur de la photographie par Google.",
 "link": "https://amazon.fr"
 },
 {
 "category": "audio",
-"title": "AirPods Pro 2",
-"oldPrice": 279,
-"newPrice": 239,
-"discount": 14,
-"imageUrl": "https://images.unsplash.com/photo-1588423770503-d18999f445ee?w=500",
-"description": "Audio spatialisé et réduction de bruit deux fois plus performante.",
+"title": "Bose QuietComfort Ultra",
+"oldPrice": 449,
+"newPrice": 349,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1546435770-a3e426da471b?w=500",
+"description": "Immersion sonore totale et confort premium.",
 "link": "https://amazon.fr"
 }
 ]
