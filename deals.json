@@ -1,32 +1,12 @@
 [
 {
 "category": "smartphone",
-"title": "Samsung Galaxy S23",
-"oldPrice": 959,
+"title": "Samsung Galaxy S24",
+"oldPrice": 899,
 "newPrice": 749,
-"discount": 22,
+"discount": 16,
 "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Smartphone Android puissant avec écran Dynamic AMOLED 2X.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "iPad Air M1",
-"oldPrice": 789,
-"newPrice": 669,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Tablette polyvalente avec puce M1 et écran Liquid Retina.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
-"title": "Dell XPS 13",
-"oldPrice": 1299,
-"newPrice": 1099,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
-"description": "Ordinateur ultra-portable performant avec écran InfinityEdge.",
+"description": "Le dernier smartphone Samsung avec Galaxy AI intégrée.",
 "link": "https://amazon.fr"
 },
 {
@@ -34,29 +14,49 @@
 "title": "Sony WH-1000XM5",
 "oldPrice": 399,
 "newPrice": 329,
-"discount": 18,
-"imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=500",
+"discount": 17,
+"imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
 "description": "Casque à réduction de bruit sans fil leader du marché.",
+"link": "https://amazon.fr"
+},
+{
+"category": "pc portable",
+"title": "MacBook Air M2",
+"oldPrice": 1199,
+"newPrice": 999,
+"discount": 16,
+"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+"description": "Ordinateur ultra fin et puissant avec puce Apple M2.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M2",
+"oldPrice": 719,
+"newPrice": 649,
+"discount": 10,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Tablette polyvalente idéale pour le travail et le dessin.",
 "link": "https://amazon.fr"
 },
 {
 "category": "smartphone",
 "title": "Google Pixel 8",
 "oldPrice": 799,
-"newPrice": 649,
-"discount": 19,
+"newPrice": 599,
+"discount": 25,
 "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "Expérience Google pure avec appareil photo exceptionnel.",
+"description": "Une expérience Android pure avec un appareil photo exceptionnel.",
 "link": "https://amazon.fr"
 },
 {
-"category": "audio",
-"title": "AirPods Pro 2",
-"oldPrice": 279,
-"newPrice": 239,
-"discount": 14,
-"imageUrl": "https://images.unsplash.com/photo-1588423770574-91993ca06f42?w=500",
-"description": "Écouteurs sans fil avec réduction active du bruit.",
+"category": "pc portable",
+"title": "ASUS Zenbook 14",
+"oldPrice": 1099,
+"newPrice": 899,
+"discount": 18,
+"imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+"description": "PC portable élégant avec écran OLED pour les créatifs.",
 "link": "https://amazon.fr"
 }
 ]
