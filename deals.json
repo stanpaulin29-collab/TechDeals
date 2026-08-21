@@ -1,62 +1,62 @@
 [
-  {
-    "category": "smartphone",
-    "title": "iPhone 15 Pro",
-    "oldPrice": 1229,
-    "newPrice": 1099,
-    "discount": 11,
-    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-    "description": "Écran Super Retina XDR de 6,1 pouces et puce A17 Pro ultra-puissante.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "PC portable",
-    "title": "MacBook Air M2",
-    "oldPrice": 1199,
-    "newPrice": 999,
-    "discount": 17,
-    "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-    "description": "L'ordinateur portable le plus fin et le plus léger d'Apple avec puce M2.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Sony WH-1000XM5",
-    "oldPrice": 399,
-    "newPrice": 329,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1618366712277-7ca910f54668?w=500",
-    "description": "Casque Bluetooth à réduction de bruit de pointe pour une immersion totale.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablette",
-    "title": "iPad Air M2",
-    "oldPrice": 719,
-    "newPrice": 649,
-    "discount": 10,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "Puissante, colorée et polyvalente avec l'écran Liquid Retina 11 pouces.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "smartphone",
-    "title": "Samsung Galaxy S24 Ultra",
-    "oldPrice": 1469,
-    "newPrice": 1199,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-    "description": "Capturez chaque détail avec son capteur 200 Mpx et son stylet S Pen.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Bose QuietComfort Ultra",
-    "oldPrice": 449,
-    "newPrice": 369,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-    "description": "Son spatial révolutionnaire et réduction de bruit Bose légendaire.",
-    "link": "https://amazon.fr"
-  }
+{
+"category": "smartphone",
+"title": "Samsung Galaxy S23",
+"oldPrice": 859,
+"newPrice": 699,
+"discount": 18,
+"imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+"description": "Écran Dynamic AMOLED 2X et processeur puissant.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "MacBook Air M2",
+"oldPrice": 1199,
+"newPrice": 999,
+"discount": 17,
+"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
+"description": "Performance exceptionnelle avec la puce M2 d'Apple.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Sony WH-1000XM5",
+"oldPrice": 399,
+"newPrice": 299,
+"discount": 25,
+"imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=500",
+"description": "Réduction de bruit leader du marché et confort accru.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M1",
+"oldPrice": 769,
+"newPrice": 649,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "La polyvalence alliée à la puissance de la puce M1.",
+"link": "https://amazon.fr"
+},
+{
+"category": "smartphone",
+"title": "Google Pixel 8",
+"oldPrice": 799,
+"newPrice": 649,
+"discount": 19,
+"imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+"description": "Photographie computationnelle avancée et IA Google.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Bose QuietComfort II",
+"oldPrice": 279,
+"newPrice": 199,
+"discount": 28,
+"imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+"description": "Écouteurs sans fil avec réduction de bruit personnalisée.",
+"link": "https://amazon.fr"
+}
 ]
