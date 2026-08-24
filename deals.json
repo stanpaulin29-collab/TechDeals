@@ -3,20 +3,10 @@
 "category": "smartphone",
 "title": "Samsung Galaxy S23",
 "oldPrice": 959,
-"newPrice": 749,
-"discount": 22,
+"newPrice": 699,
+"discount": 27,
 "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Le dernier smartphone premium de Samsung avec écran 120Hz.",
-"link": "https://amazon.fr"
-},
-{
-"category": "PC portable",
-"title": "MacBook Air M2",
-"oldPrice": 1299,
-"newPrice": 1099,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-"description": "Ultraportable performant avec la puce Apple Silicon M2.",
+"description": "Écran Dynamic AMOLED 2X, performance exceptionnelle et triple capteur photo.",
 "link": "https://amazon.fr"
 },
 {
@@ -26,7 +16,17 @@
 "newPrice": 649,
 "discount": 18,
 "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Puissance et design léger avec l'écran Liquid Retina.",
+"description": "Puissance de la puce M1 avec un écran Liquid Retina de 10,9 pouces.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "MacBook Air M2",
+"oldPrice": 1299,
+"newPrice": 1099,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+"description": "Design ultra-fin, puce M2 ultra-rapide et autonomie jusqu'à 18 heures.",
 "link": "https://amazon.fr"
 },
 {
@@ -35,28 +35,28 @@
 "oldPrice": 419,
 "newPrice": 329,
 "discount": 21,
-"imageUrl": "https://images.unsplash.com/photo-1618366712277-70701146c8e0?w=500",
-"description": "Réduction de bruit active leader pour une immersion totale.",
+"imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+"description": "Casque à réduction de bruit de pointe avec qualité sonore haute résolution.",
 "link": "https://amazon.fr"
 },
 {
 "category": "smartphone",
-"title": "Google Pixel 7 Pro",
-"oldPrice": 899,
-"newPrice": 699,
-"discount": 22,
+"title": "Google Pixel 8",
+"oldPrice": 799,
+"newPrice": 599,
+"discount": 25,
 "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "L'excellence photographique signée Google avec IA intégrée.",
+"description": "Expérience Android pure avec le processeur Google Tensor G3.",
 "link": "https://amazon.fr"
 },
 {
 "category": "PC portable",
-"title": "ASUS Vivobook 16",
-"oldPrice": 699,
-"newPrice": 549,
-"discount": 21,
+"title": "ASUS Zenbook 14 OLED",
+"oldPrice": 1199,
+"newPrice": 899,
+"discount": 25,
 "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
-"description": "PC portable polyvalent avec grand écran pour le télétravail.",
+"description": "Écran OLED somptueux et performances Intel Core i7 dans un format compact.",
 "link": "https://amazon.fr"
 }
 ]
