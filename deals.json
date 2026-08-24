@@ -1,62 +1,62 @@
 [
-  {
-    "category": "smartphone",
-    "title": "Samsung Galaxy S23",
-    "oldPrice": 959,
-    "newPrice": 699,
-    "discount": 27,
-    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-    "description": "Smartphone haut de gamme avec écran Dynamic AMOLED 2X et triple capteur photo.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "laptop",
-    "title": "MacBook Air M2",
-    "oldPrice": 1299,
-    "newPrice": 1099,
-    "discount": 15,
-    "imageUrl": "https://images.unsplash.com/photo-1517336714460-4c5042654f51?w=500",
-    "description": "Ordinateur portable ultra-fin avec puce Apple M2 et une autonomie exceptionnelle.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablet",
-    "title": "iPad Air",
-    "oldPrice": 789,
-    "newPrice": 649,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "Tablette polyvalente compatible avec l'Apple Pencil pour les créatifs et étudiants.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Sony WH-1000XM5",
-    "oldPrice": 399,
-    "newPrice": 329,
-    "discount": 17,
-    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
-    "description": "Le casque à réduction de bruit active le plus performant du marché avec son immersif.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "smartphone",
-    "title": "Google Pixel 7",
-    "oldPrice": 649,
-    "newPrice": 549,
-    "discount": 15,
-    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-    "description": "Smartphone Android avec une expérience logicielle pure et des photos incroyables.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "laptop",
-    "title": "ASUS ROG Zephyrus",
-    "oldPrice": 1899,
-    "newPrice": 1599,
-    "discount": 16,
-    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500",
-    "description": "PC portable gaming haute performance avec carte graphique NVIDIA RTX de dernière génération.",
-    "link": "https://amazon.fr"
-  }
+{
+"category": "smartphone",
+"title": "Samsung Galaxy S23",
+"oldPrice": 959,
+"newPrice": 749,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+"description": "Le dernier smartphone premium de Samsung avec écran 120Hz.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "MacBook Air M2",
+"oldPrice": 1299,
+"newPrice": 1099,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
+"description": "Ultraportable performant avec la puce Apple Silicon M2.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M1",
+"oldPrice": 789,
+"newPrice": 649,
+"discount": 18,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Puissance et design léger avec l'écran Liquid Retina.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Sony WH-1000XM5",
+"oldPrice": 419,
+"newPrice": 329,
+"discount": 21,
+"imageUrl": "https://images.unsplash.com/photo-1618366712277-70701146c8e0?w=500",
+"description": "Réduction de bruit active leader pour une immersion totale.",
+"link": "https://amazon.fr"
+},
+{
+"category": "smartphone",
+"title": "Google Pixel 7 Pro",
+"oldPrice": 899,
+"newPrice": 699,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
+"description": "L'excellence photographique signée Google avec IA intégrée.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "ASUS Vivobook 16",
+"oldPrice": 699,
+"newPrice": 549,
+"discount": 21,
+"imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
+"description": "PC portable polyvalent avec grand écran pour le télétravail.",
+"link": "https://amazon.fr"
+}
 ]
