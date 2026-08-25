@@ -1,62 +1,62 @@
 [
-{
-"category": "smartphone",
-"title": "Samsung Galaxy S23",
-"oldPrice": 959,
-"newPrice": 749,
-"discount": 22,
-"imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
-"description": "Écran Dynamic AMOLED 2X, triple capteur photo 50 Mpx et processeur Snapdragon 8 Gen 2.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "iPad Air M1",
-"oldPrice": 789,
-"newPrice": 629,
-"discount": 20,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Puce Apple M1 puissante, écran Liquid Retina 10.9 pouces et compatibilité Apple Pencil.",
-"link": "https://amazon.fr"
-},
-{
-"category": "pc portable",
-"title": "MacBook Air M2",
-"oldPrice": 1299,
-"newPrice": 1099,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-"description": "Design ultra-fin, puce Apple M2 ultra rapide et autonomie allant jusqu'à 18 heures.",
-"link": "https://amazon.fr"
-},
-{
-"category": "audio",
-"title": "Sony WH-1000XM5",
-"oldPrice": 399,
-"newPrice": 329,
-"discount": 18,
-"imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=500",
-"description": "Casque sans fil à réduction de bruit active leader du marché avec 30h d'autonomie.",
-"link": "https://amazon.fr"
-},
-{
-"category": "smartphone",
-"title": "Google Pixel 7 Pro",
-"oldPrice": 899,
-"newPrice": 699,
-"discount": 22,
-"imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Le meilleur de la photographie Google avec la puce Tensor G2 et un écran 120Hz.",
-"link": "https://amazon.fr"
-},
-{
-"category": "audio",
-"title": "AirPods Pro 2",
-"oldPrice": 279,
-"newPrice": 239,
-"discount": 14,
-"imageUrl": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=500",
-"description": "Réduction active du bruit deux fois plus performante et audio spatial personnalisé.",
-"link": "https://amazon.fr"
-}
+  {
+    "category": "smartphone",
+    "title": "Samsung Galaxy S23 Ultra",
+    "oldPrice": 1419,
+    "newPrice": 999,
+    "discount": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+    "description": "Le fleuron de Samsung avec son capteur 200 Mpx et son stylet S-Pen intégré.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "laptop",
+    "title": "MacBook Air M2",
+    "oldPrice": 1299,
+    "newPrice": 1099,
+    "discount": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
+    "description": "L'ordinateur ultra-fin d'Apple doté de la puissante puce M2 pour une autonomie record.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "audio",
+    "title": "Sony WH-1000XM5",
+    "oldPrice": 399,
+    "newPrice": 329,
+    "discount": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1618366712277-721219643115?w=500",
+    "description": "La référence absolue des casques à réduction de bruit active pour une immersion totale.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "tablet",
+    "title": "iPad Air M1",
+    "oldPrice": 789,
+    "newPrice": 649,
+    "discount": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "La polyvalence alliée à la performance de la puce M1 dans un écran Liquid Retina.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "smartphone",
+    "title": "Google Pixel 8",
+    "oldPrice": 799,
+    "newPrice": 629,
+    "discount": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1696429103212-09419198ec4e?w=500",
+    "description": "Le smartphone Google par excellence avec la meilleure expérience Android et IA.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "audio",
+    "title": "AirPods Pro 2",
+    "oldPrice": 279,
+    "newPrice": 239,
+    "discount": 14,
+    "imageUrl": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=500",
+    "description": "Écouteurs sans fil avec audio spatial et réduction de bruit deux fois plus performante.",
+    "link": "https://amazon.fr"
+  }
 ]
