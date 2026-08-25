@@ -1,22 +1,32 @@
 [
   {
     "category": "smartphone",
-    "title": "Samsung Galaxy S23 Ultra",
-    "oldPrice": 1419,
-    "newPrice": 999,
-    "discount": 30,
-    "imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
-    "description": "Le fleuron de Samsung avec son capteur 200 Mpx et son stylet S-Pen intégré.",
+    "title": "Samsung Galaxy S24 Ultra",
+    "oldPrice": 1469,
+    "newPrice": 1199,
+    "discount": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+    "description": "Le fleuron de Samsung avec Galaxy AI et un capteur photo de 200 Mpx.",
     "link": "https://amazon.fr"
   },
   {
-    "category": "laptop",
-    "title": "MacBook Air M2",
+    "category": "tablette",
+    "title": "iPad Air M2",
+    "oldPrice": 719,
+    "newPrice": 649,
+    "discount": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "Puissance phénoménale avec la puce M2 dans un design ultra-fin.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "pc portable",
+    "title": "MacBook Air M3",
     "oldPrice": 1299,
-    "newPrice": 1099,
-    "discount": 15,
+    "newPrice": 1149,
+    "discount": 12,
     "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-    "description": "L'ordinateur ultra-fin d'Apple doté de la puissante puce M2 pour une autonomie record.",
+    "description": "L'ordinateur portable le plus populaire au monde, plus rapide que jamais.",
     "link": "https://amazon.fr"
   },
   {
@@ -25,38 +35,28 @@
     "oldPrice": 399,
     "newPrice": 329,
     "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1618366712277-721219643115?w=500",
-    "description": "La référence absolue des casques à réduction de bruit active pour une immersion totale.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablet",
-    "title": "iPad Air M1",
-    "oldPrice": 789,
-    "newPrice": 649,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "La polyvalence alliée à la performance de la puce M1 dans un écran Liquid Retina.",
+    "imageUrl": "https://images.unsplash.com/photo-1618366712277-70701bc93c01?w=500",
+    "description": "Une réduction de bruit de pointe et une qualité sonore exceptionnelle.",
     "link": "https://amazon.fr"
   },
   {
     "category": "smartphone",
-    "title": "Google Pixel 8",
-    "oldPrice": 799,
-    "newPrice": 629,
-    "discount": 21,
-    "imageUrl": "https://images.unsplash.com/photo-1696429103212-09419198ec4e?w=500",
-    "description": "Le smartphone Google par excellence avec la meilleure expérience Android et IA.",
+    "title": "Google Pixel 8 Pro",
+    "oldPrice": 1099,
+    "newPrice": 849,
+    "discount": 23,
+    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+    "description": "Le meilleur de Google avec un processeur Tensor G3 et un écran ultra lumineux.",
     "link": "https://amazon.fr"
   },
   {
     "category": "audio",
-    "title": "AirPods Pro 2",
-    "oldPrice": 279,
-    "newPrice": 239,
-    "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=500",
-    "description": "Écouteurs sans fil avec audio spatial et réduction de bruit deux fois plus performante.",
+    "title": "Bose QuietComfort Ultra",
+    "oldPrice": 449,
+    "newPrice": 349,
+    "discount": 22,
+    "imageUrl": "https://images.unsplash.com/photo-1546435770-a3e426da473b?w=500",
+    "description": "Audio spatial immersif et confort légendaire pour vos sessions d'écoute.",
     "link": "https://amazon.fr"
   }
 ]
