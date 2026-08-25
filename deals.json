@@ -1,22 +1,32 @@
 [
 {
 "category": "smartphone",
-"title": "iPhone 15 Pro",
-"oldPrice": 1229,
-"newPrice": 1099,
-"discount": 10,
-"imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-"description": "Le dernier fleuron d'Apple avec châssis en titane et puce A17 Pro.",
+"title": "Samsung Galaxy S23",
+"oldPrice": 959,
+"newPrice": 749,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+"description": "Écran Dynamic AMOLED 2X, triple capteur photo 50 Mpx et processeur Snapdragon 8 Gen 2.",
 "link": "https://amazon.fr"
 },
 {
-"category": "PC portable",
+"category": "tablette",
+"title": "iPad Air M1",
+"oldPrice": 789,
+"newPrice": 629,
+"discount": 20,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Puce Apple M1 puissante, écran Liquid Retina 10.9 pouces et compatibilité Apple Pencil.",
+"link": "https://amazon.fr"
+},
+{
+"category": "pc portable",
 "title": "MacBook Air M2",
-"oldPrice": 1199,
-"newPrice": 999,
-"discount": 16,
+"oldPrice": 1299,
+"newPrice": 1099,
+"discount": 15,
 "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-"description": "Puissance et portabilité extrême avec la puce M2 et 18h d'autonomie.",
+"description": "Design ultra-fin, puce Apple M2 ultra rapide et autonomie allant jusqu'à 18 heures.",
 "link": "https://amazon.fr"
 },
 {
@@ -24,39 +34,29 @@
 "title": "Sony WH-1000XM5",
 "oldPrice": 399,
 "newPrice": 329,
-"discount": 17,
-"imageUrl": "https://images.unsplash.com/photo-1618335829737-222873397218?w=500",
-"description": "La référence absolue en réduction de bruit active et qualité sonore.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "Samsung Galaxy Tab S9",
-"oldPrice": 899,
-"newPrice": 749,
-"discount": 16,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "Écran Dynamic AMOLED 2X et S Pen inclus pour la productivité.",
+"discount": 18,
+"imageUrl": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=500",
+"description": "Casque sans fil à réduction de bruit active leader du marché avec 30h d'autonomie.",
 "link": "https://amazon.fr"
 },
 {
 "category": "smartphone",
-"title": "Google Pixel 8 Pro",
-"oldPrice": 1099,
-"newPrice": 849,
+"title": "Google Pixel 7 Pro",
+"oldPrice": 899,
+"newPrice": 699,
 "discount": 22,
-"imageUrl": "https://images.unsplash.com/photo-1696426375893-ad200924089c?w=500",
-"description": "L'expérience Android pure avec le meilleur de la photographie IA.",
+"imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+"description": "Le meilleur de la photographie Google avec la puce Tensor G2 et un écran 120Hz.",
 "link": "https://amazon.fr"
 },
 {
 "category": "audio",
-"title": "Bose QuietComfort Earbuds II",
-"oldPrice": 299,
-"newPrice": 229,
-"discount": 23,
-"imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
-"description": "Une annulation de bruit sur mesure dans un format compact.",
+"title": "AirPods Pro 2",
+"oldPrice": 279,
+"newPrice": 239,
+"discount": 14,
+"imageUrl": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=500",
+"description": "Réduction active du bruit deux fois plus performante et audio spatial personnalisé.",
 "link": "https://amazon.fr"
 }
 ]
