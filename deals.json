@@ -1,62 +1,62 @@
 [
-  {
-    "category": "smartphone",
-    "title": "iPhone 15 128Go",
-    "oldPrice": 969,
-    "newPrice": 829,
-    "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-    "description": "Le dernier smartphone d'Apple avec puce A16 Bionic et port USB-C.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "PC portable",
-    "title": "MacBook Air M2",
-    "oldPrice": 1199,
-    "newPrice": 999,
-    "discount": 17,
-    "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-    "description": "Ultra-fin, performant avec sa puce M2 et une autonomie exceptionnelle.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablette",
-    "title": "iPad Air M1",
-    "oldPrice": 719,
-    "newPrice": 649,
-    "discount": 10,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "Polyvalence et puissance pour le dessin, le travail et le multimédia.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Sony WH-1000XM5",
-    "oldPrice": 399,
-    "newPrice": 299,
-    "discount": 25,
-    "imageUrl": "https://images.unsplash.com/photo-1618366712277-70778c74383f?w=500",
-    "description": "Le meilleur casque à réduction de bruit active du marché.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "AirPods Pro 2",
-    "oldPrice": 279,
-    "newPrice": 239,
-    "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1588423770574-91021160dfbb?w=500",
-    "description": "Écouteurs sans fil avec réduction de bruit et son spatial.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "PC portable",
-    "title": "ASUS Zenbook 14",
-    "oldPrice": 1299,
-    "newPrice": 1099,
-    "discount": 15,
-    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500",
-    "description": "Écran OLED sublime et processeur puissant dans un châssis compact.",
-    "link": "https://amazon.fr"
-  }
+{
+"category": "smartphone",
+"title": "iPhone 15 Pro",
+"oldPrice": 1229,
+"newPrice": 1099,
+"discount": 11,
+"imageUrl": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+"description": "Le dernier smartphone d'Apple avec châssis en titane et puce A17 Pro.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M2",
+"oldPrice": 719,
+"newPrice": 649,
+"discount": 10,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Puissance exceptionnelle avec la puce M2 dans un design ultra fin.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "MacBook Air M3",
+"oldPrice": 1299,
+"newPrice": 1149,
+"discount": 12,
+"imageUrl": "https://images.unsplash.com/photo-1517336714460-4c504b07fe27?w=500",
+"description": "L'ordinateur le plus fin et léger d'Apple, désormais boosté par la puce M3.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Sony WH-1000XM5",
+"oldPrice": 399,
+"newPrice": 319,
+"discount": 20,
+"imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
+"description": "Réduction de bruit de pointe et qualité sonore exceptionnelle sans fil.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "Asus ROG Zephyrus",
+"oldPrice": 1899,
+"newPrice": 1599,
+"discount": 16,
+"imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
+"description": "PC gamer compact et performant avec écran 120Hz et carte RTX 4070.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "AirPods Pro 2",
+"oldPrice": 279,
+"newPrice": 239,
+"discount": 14,
+"imageUrl": "https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?w=500",
+"description": "Les écouteurs avec annulation active du bruit et audio spatial personnalisé.",
+"link": "https://amazon.fr"
+}
 ]
