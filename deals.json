@@ -6,17 +6,27 @@
 "newPrice": 749,
 "discount": 22,
 "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-"description": "Smartphone performant avec écran 120Hz et triple capteur photo.",
+"description": "Smartphone compact et puissant avec écran AMOLED 120Hz et triple capteur photo.",
 "link": "https://amazon.fr"
 },
 {
-"category": "pc portable",
+"category": "PC portable",
 "title": "MacBook Air M2",
 "oldPrice": 1299,
 "newPrice": 1099,
 "discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-"description": "Ordinateur ultra-fin avec puce M2 pour une puissance exceptionnelle.",
+"imageUrl": "https://images.unsplash.com/photo-1517336714460-4c98881c94df?w=500",
+"description": "L'ordinateur portable ultra-fin d'Apple doté de la puce M2 pour des performances accrues.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air 2022",
+"oldPrice": 789,
+"newPrice": 669,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Tablette polyvalente avec écran Liquid Retina et puce M1 ultra-rapide.",
 "link": "https://amazon.fr"
 },
 {
@@ -25,38 +35,28 @@
 "oldPrice": 399,
 "newPrice": 329,
 "discount": 18,
-"imageUrl": "https://images.unsplash.com/photo-1618366712277-7216461bc58b?w=500",
-"description": "Casque à réduction de bruit active offrant une clarté sonore inégalée.",
-"link": "https://amazon.fr"
-},
-{
-"category": "tablette",
-"title": "iPad Air 5",
-"oldPrice": 789,
-"newPrice": 669,
-"discount": 15,
-"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-"description": "La polyvalence alliée à la puissance de la puce Apple M1.",
+"imageUrl": "https://images.unsplash.com/photo-1613040810385-19976a16388c?w=500",
+"description": "Casque à réduction de bruit sans fil offrant une qualité audio exceptionnelle.",
 "link": "https://amazon.fr"
 },
 {
 "category": "smartphone",
 "title": "Google Pixel 7",
 "oldPrice": 649,
-"newPrice": 499,
-"discount": 23,
-"imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-"description": "L'expérience Android pure avec un appareil photo exceptionnel.",
+"newPrice": 549,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+"description": "L'excellence photo par Google avec un processeur Tensor G2 intelligent.",
 "link": "https://amazon.fr"
 },
 {
-"category": "pc portable",
-"title": "Dell XPS 13",
-"oldPrice": 1499,
-"newPrice": 1199,
-"discount": 20,
-"imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
-"description": "Design premium et écran InfinityEdge pour une productivité nomade.",
+"category": "audio",
+"title": "AirPods Pro 2",
+"oldPrice": 279,
+"newPrice": 239,
+"discount": 14,
+"imageUrl": "https://images.unsplash.com/photo-1588423770574-010ce258511a?w=500",
+"description": "Écouteurs sans fil avec audio spatial et réduction active du bruit doublée.",
 "link": "https://amazon.fr"
 }
 ]
