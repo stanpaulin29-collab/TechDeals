@@ -1,62 +1,62 @@
 [
-  {
-    "category": "smartphone",
-    "title": "iPhone 15 Pro",
-    "oldPrice": 1229,
-    "newPrice": 1099,
-    "discount": 11,
-    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-    "description": "Smartphone haut de gamme avec puce A17 Pro et châssis en titane.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "laptop",
-    "title": "MacBook Air M2",
-    "oldPrice": 1199,
-    "newPrice": 999,
-    "discount": 17,
-    "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-    "description": "Ordinateur portable ultra-fin avec autonomie exceptionnelle et écran Liquid Retina.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "Sony WH-1000XM5",
-    "oldPrice": 399,
-    "newPrice": 329,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
-    "description": "Casque sans fil à réduction de bruit active de référence mondiale.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablet",
-    "title": "iPad Air M1",
-    "oldPrice": 769,
-    "newPrice": 649,
-    "discount": 16,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "Tablette puissante et polyvalente pour la création et le divertissement.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "smartphone",
-    "title": "Samsung Galaxy S24",
-    "oldPrice": 899,
-    "newPrice": 749,
-    "discount": 17,
-    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-    "description": "Smartphone compact intégrant les dernières innovations Galaxy AI.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "audio",
-    "title": "AirPods Pro 2",
-    "oldPrice": 279,
-    "newPrice": 239,
-    "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1588423770674-f2855ee476e7?w=500",
-    "description": "Écouteurs avec audio spatial personnalisé et annulation du bruit améliorée.",
-    "link": "https://amazon.fr"
-  }
+{
+"category": "smartphone",
+"title": "Samsung Galaxy S23",
+"oldPrice": 959,
+"newPrice": 749,
+"discount": 22,
+"imageUrl": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=500",
+"description": "Écran Dynamic AMOLED 2X et processeur ultra puissant.",
+"link": "https://amazon.fr"
+},
+{
+"category": "PC portable",
+"title": "MacBook Air M2",
+"oldPrice": 1299,
+"newPrice": 1099,
+"discount": 15,
+"imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
+"description": "Puce M2, design fin et autonomie record.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Sony WH-1000XM5",
+"oldPrice": 399,
+"newPrice": 329,
+"discount": 17,
+"imageUrl": "https://images.unsplash.com/photo-1618366712277-707049d1988b?w=500",
+"description": "Réduction de bruit leader du marché et son haute fidélité.",
+"link": "https://amazon.fr"
+},
+{
+"category": "tablette",
+"title": "iPad Air M1",
+"oldPrice": 769,
+"newPrice": 649,
+"discount": 16,
+"imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+"description": "Écran Liquid Retina 10,9 pouces et compatibilité Apple Pencil.",
+"link": "https://amazon.fr"
+},
+{
+"category": "smartphone",
+"title": "Google Pixel 8",
+"oldPrice": 799,
+"newPrice": 699,
+"discount": 12,
+"imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+"description": "Le meilleur de la photographie computationnelle par Google.",
+"link": "https://amazon.fr"
+},
+{
+"category": "audio",
+"title": "Bose QuietComfort Earbuds II",
+"oldPrice": 299,
+"newPrice": 229,
+"discount": 23,
+"imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500",
+"description": "Écouteurs sans fil avec réduction de bruit personnalisée.",
+"link": "https://amazon.fr"
+}
 ]
