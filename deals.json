@@ -1,52 +1,52 @@
 [
   {
     "category": "smartphone",
-    "title": "Samsung Galaxy S23",
-    "oldPrice": 959,
-    "newPrice": 749,
-    "discount": 22,
-    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
-    "description": "Smartphone performant doté d'un écran AMOLED de 120Hz.",
+    "title": "iPhone 15 Pro",
+    "oldPrice": 1229,
+    "newPrice": 1099,
+    "discount": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
+    "description": "Smartphone haut de gamme avec puce A17 Pro et châssis en titane.",
     "link": "https://amazon.fr"
   },
   {
-    "category": "PC portable",
+    "category": "laptop",
     "title": "MacBook Air M2",
     "oldPrice": 1199,
     "newPrice": 999,
     "discount": 17,
-    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
-    "description": "Le portable iconique d'Apple avec la puissance de la puce M2.",
+    "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
+    "description": "Ordinateur portable ultra-fin avec autonomie exceptionnelle et écran Liquid Retina.",
     "link": "https://amazon.fr"
   },
   {
     "category": "audio",
     "title": "Sony WH-1000XM5",
     "oldPrice": 399,
-    "newPrice": 299,
-    "discount": 25,
-    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
-    "description": "Casque audio avec réduction de bruit active exceptionnelle.",
+    "newPrice": 329,
+    "discount": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=500",
+    "description": "Casque sans fil à réduction de bruit active de référence mondiale.",
     "link": "https://amazon.fr"
   },
   {
-    "category": "tablette",
+    "category": "tablet",
     "title": "iPad Air M1",
     "oldPrice": 769,
     "newPrice": 649,
-    "discount": 15,
+    "discount": 16,
     "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "La tablette idéale pour la productivité et la créativité.",
+    "description": "Tablette puissante et polyvalente pour la création et le divertissement.",
     "link": "https://amazon.fr"
   },
   {
     "category": "smartphone",
-    "title": "Google Pixel 8",
-    "oldPrice": 799,
-    "newPrice": 629,
-    "discount": 21,
-    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
-    "description": "Le smartphone avec le meilleur appareil photo IA.",
+    "title": "Samsung Galaxy S24",
+    "oldPrice": 899,
+    "newPrice": 749,
+    "discount": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+    "description": "Smartphone compact intégrant les dernières innovations Galaxy AI.",
     "link": "https://amazon.fr"
   },
   {
@@ -55,8 +55,8 @@
     "oldPrice": 279,
     "newPrice": 239,
     "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1588423770574-91993ca06f42?w=500",
-    "description": "Écouteurs sans fil avec audio spatial et réduction de bruit.",
+    "imageUrl": "https://images.unsplash.com/photo-1588423770674-f2855ee476e7?w=500",
+    "description": "Écouteurs avec audio spatial personnalisé et annulation du bruit améliorée.",
     "link": "https://amazon.fr"
   }
 ]
