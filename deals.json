@@ -1,52 +1,52 @@
 [
   {
     "category": "smartphone",
-    "title": "iPhone 15 Pro",
-    "oldPrice": 1229,
-    "newPrice": 1099,
-    "discount": 10,
-    "imageUrl": "https://images.unsplash.com/photo-1696446701796-da61225697cc?w=500",
-    "description": "Écran Super Retina XDR de 6,1 pouces avec technologie ProMotion.",
-    "link": "https://amazon.fr"
-  },
-  {
-    "category": "tablette",
-    "title": "Samsung Galaxy Tab S9",
-    "oldPrice": 899,
+    "title": "Samsung Galaxy S23",
+    "oldPrice": 959,
     "newPrice": 749,
-    "discount": 16,
-    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
-    "description": "Écran Dynamic AMOLED 2X et processeur Snapdragon 8 Gen 2.",
+    "discount": 22,
+    "imageUrl": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+    "description": "Smartphone performant doté d'un écran AMOLED de 120Hz.",
     "link": "https://amazon.fr"
   },
   {
-    "category": "pc portable",
+    "category": "PC portable",
     "title": "MacBook Air M2",
     "oldPrice": 1199,
     "newPrice": 999,
-    "discount": 16,
-    "imageUrl": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500",
-    "description": "Puce M2 ultra-rapide, écran Liquid Retina de 13,6 pouces.",
+    "discount": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    "description": "Le portable iconique d'Apple avec la puissance de la puce M2.",
     "link": "https://amazon.fr"
   },
   {
     "category": "audio",
     "title": "Sony WH-1000XM5",
     "oldPrice": 399,
-    "newPrice": 329,
-    "discount": 17,
-    "imageUrl": "https://images.unsplash.com/photo-1613040819024-b61f0c97b8ec?w=500",
-    "description": "Casque sans fil avec la meilleure réduction de bruit du marché.",
+    "newPrice": 299,
+    "discount": 25,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "description": "Casque audio avec réduction de bruit active exceptionnelle.",
+    "link": "https://amazon.fr"
+  },
+  {
+    "category": "tablette",
+    "title": "iPad Air M1",
+    "oldPrice": 769,
+    "newPrice": 649,
+    "discount": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "description": "La tablette idéale pour la productivité et la créativité.",
     "link": "https://amazon.fr"
   },
   {
     "category": "smartphone",
     "title": "Google Pixel 8",
     "oldPrice": 799,
-    "newPrice": 649,
-    "discount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1696429112933-f5c760436402?w=500",
-    "description": "Une expérience Android pure et un appareil photo boosté à l'IA.",
+    "newPrice": 629,
+    "discount": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500",
+    "description": "Le smartphone avec le meilleur appareil photo IA.",
     "link": "https://amazon.fr"
   },
   {
@@ -55,8 +55,8 @@
     "oldPrice": 279,
     "newPrice": 239,
     "discount": 14,
-    "imageUrl": "https://images.unsplash.com/photo-1588423770113-96924c333c8c?w=500",
-    "description": "Réduction active du bruit et audio spatial personnalisé.",
+    "imageUrl": "https://images.unsplash.com/photo-1588423770574-91993ca06f42?w=500",
+    "description": "Écouteurs sans fil avec audio spatial et réduction de bruit.",
     "link": "https://amazon.fr"
   }
 ]
